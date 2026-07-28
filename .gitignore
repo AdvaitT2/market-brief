@@ -1,0 +1,12 @@
+# Never commit secrets
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated charts — the code should be able to recreate these,
+# so there's no need to store them in git.
+output/*.png
