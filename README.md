@@ -22,7 +22,7 @@ This project allows share prices to be analysed, it can plot them onto a graph a
 
 ## Setup
 
-TODO
+I managed to get the code working to analyse the apple share prices and plot it onto the graph, the part that took longest was the final bit where I had to switch the example data for real apple data because I kept coming accross numerous logic errors where I realised parts of the code from when I was experimenting with the test data (that had no relevance to the real data) were obstructing the result e.g. ax.set_ylim(170,200). Now I would like to know if it is possible to make something which updates itself in real time. 
 
 ## Running it
 
