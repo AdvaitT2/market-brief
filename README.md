@@ -18,7 +18,7 @@ which is useful information, and worth flagging to your mentor.
 
 ## What this does
 
-TODO
+This project allows share prices to be analysed, it can plot them onto a graph and displays over a time range that can be changed, the highest, closing prices are selected
 
 ## Setup
 
@@ -27,3 +27,6 @@ TODO
 ## Running it
 
 TODO
+
+![AAPL closing price]{output/AAPL.png}
+
